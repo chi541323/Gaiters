@@ -4,13 +4,13 @@ Authors
 ---
 | Name | |
 |-------|-----|
-| Chi Wang       | National Taiwan University     |
-| Da-Yuan Huang  | National Chiao Tung University |
-| Shuo-Wen Hsu   | National Chiao Tung University |
-| Cheng-Lung Lin | National Chiao Tung University |
-| Yeu-Luen Chiu  | National Chiao Tung University |
-| Chu-En Hou     | National Chiao Tung University |
-| Bing-Yu Chen   | National Taiwan University     |
+| Chi Wang       | National Taiwan University, Taiwan     |
+| Da-Yuan Huang  | National Chiao Tung University, Taiwan |
+| Shuo-Wen Hsu   | National Chiao Tung University, Taiwan |
+| Cheng-Lung Lin | National Chiao Tung University, Taiwan |
+| Yeu-Luen Chiu  | National Chiao Tung University, Taiwan |
+| Chu-En Hou     | National Chiao Tung University, Taiwan |
+| Bing-Yu Chen   | National Taiwan University, Taiwan     |
 
 
 Abstract
