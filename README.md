@@ -2,7 +2,6 @@
 
 Authors
 ---
-| Name | |
 |-------|-----|
 | Chi Wang       | National Taiwan University, Taiwan     |
 | Da-Yuan Huang  | National Chiao Tung University, Taiwan |
