@@ -2,7 +2,7 @@
 
 Author
 ---
-Chi Wang    National Taiwan University <br />
+Chi Wang  National Taiwan University <br />
 Da-Yuan Huang   National Chiao Tung University <br />
 Shuo-Wen Hsu    National Chiao Tung University <br />
 Cheng-Lung Lin    National Chiao Tung University <br />
