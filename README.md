@@ -2,9 +2,9 @@
 **Gaiters: Exploring Skin Stretch Feedback on the Legs for Enhancing Virtual Reality Experiences <br />**
 
 **Author**
-|Chi Wang | National Taiwan University|
-|-----------|------------|
-|Da-Yuan Huang | National Chiao Tung University|
+| Chi Wang | National Taiwan University |
+| ----------- | ------------ |
+| Da-Yuan Huang | National Chiao Tung University |
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
